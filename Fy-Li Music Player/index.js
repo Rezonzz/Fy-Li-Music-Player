@@ -137,6 +137,17 @@
  }  
  changeSliderContext();  
 
+  if(sliderContext) {
+    sliderContext.addEventListener('click', () =>{
+      player.classList.add('active');
+    })
+  }
+
+  if(playlistButton) {
+    playlistButton.addEventListener('click', () =>{
+      player.classList.remove('active');
+    })
+  }
  sliderContext.addEventListener("click", openPlayer);  
  sliderContext.addEventListener("animationend", () => sliderContext.style.animationName ='');  
  playlistButton.addEventListener("click", closePlayer);  
