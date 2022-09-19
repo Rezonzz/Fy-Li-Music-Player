@@ -378,6 +378,7 @@
         padding: 20px 80px;
         height: 30%;
         width: 100%;
+        min-height: 100px;
         background: #ffffff;
         box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.425);
         z-index: 999;
