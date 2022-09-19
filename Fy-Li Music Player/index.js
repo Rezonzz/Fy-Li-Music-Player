@@ -1,5 +1,5 @@
 "use strict";  
- const bgBody = ["rgba(27, 84, 135, 255)", "rgba(68, 68, 68, 1)", "rgba(68, 68, 68, 1)",  "rgba(139, 62, 216, 255)", "rgba(171, 164, 37, 255)", "rgba(209,213,205,255)", "rgba(98,98,100,255)", "rgba(209,213,205,255)", "rgba(68, 68, 68, 1)"];   
+ const bgBody = ["rgba(4, 55, 100, 255)", "rgba(68, 68, 68, 1)", "rgba(68, 68, 68, 1)",  "rgba(139, 62, 216, 255)", "rgba(171, 164, 37, 255)", "rgba(209,213,205,255)", "rgba(98,98,100,255)", "rgba(209,213,205,255)", "rgba(68, 68, 68, 1)"];   
  const body = document.body;  
  const player = document.querySelector(".player");  
  const playerHeader = player.querySelector(".player__header");  

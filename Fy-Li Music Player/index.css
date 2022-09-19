@@ -20,7 +20,7 @@
    height: 100vh ;  
    display: flex ;
    user-select: none ;  
-   background-color: rgba(27, 84, 135, 255) ;  
+   background-color: rgba(4, 55, 100, 255) ;  
    font-family: 'Quicksand', sans-serif ;  
    -webkit-tap-highlight-color: transparent ;  
    transition: background-color var(--cubic-slider) ;  
