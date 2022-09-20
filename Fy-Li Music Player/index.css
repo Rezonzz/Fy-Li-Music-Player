@@ -392,6 +392,10 @@
         left: 0;
     }
 
+    .back {
+      height: 90%;
+    }
+
     .Logo {
         display: none;
     }
