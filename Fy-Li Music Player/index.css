@@ -370,7 +370,6 @@
 
   .player.active {
     height: 63%;
-    width: 30%;
   }
 
   @media (max-width: 535px) {
