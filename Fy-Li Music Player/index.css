@@ -369,7 +369,7 @@
   }
 
   .player.active {
-    height: 42%;
+    height: 63%;
   }
 
   @media (max-width: 535px) {
@@ -390,6 +390,10 @@
         position: sticky;
         top: 0;
         left: 0;
+    }
+
+    .back {
+      height: 90%;
     }
 
     .Logo {
