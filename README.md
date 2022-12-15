@@ -1,6 +1,7 @@
 # Fy-Li-Music-Player
 
 A Project called "Fy-Li", a Simple Music Player! Made with html, css and js
+https://fy-li.netlify.app
 
 ### Screenshots
 
